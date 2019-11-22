@@ -33,6 +33,10 @@ gem 'turbolinks', '~> 5'
 #frontend gems
 gem 'simple_form'
 
+#secret key gem
+gem 'dotenv-rails', groups: [:development, :test]
+
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
