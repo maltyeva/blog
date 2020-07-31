@@ -37,6 +37,7 @@ group :development, :test do
 end
 
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary', '~> 1.12.0'
 
 
 
